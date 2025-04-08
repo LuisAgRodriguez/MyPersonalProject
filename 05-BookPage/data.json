@@ -1,0 +1,353 @@
+{
+    "firstSectionTitle": {
+        "title-1": "Los librós más comprado en Amazon",
+        "title-2": "Los librós de comedia más leidos y comprado en Amazon.",
+        "title-3": "Los mejores libros de para niños.",
+        "title-4": "Libros de historias y leyendas mas leidos.",
+        "title-5": "Libros con mas de 300 hojas para leer."
+    },
+    "firstSectionDescription": {
+        "description-1": " En la tienda de amazon veras los mejores libros y los mas vendidos internacionalmente.",
+        "description-2": "Si busca libros de comedea clickea el boton de 'Ir Amazon' para ver los mejores libros de comedia",
+        "description-3": "Aqui veras los libros mas recomendados para que los niños lean.",
+        "description-4": "Si buscas libros de historia y leyendas para no aburrirse aqui se encuantran los mas comprados.",
+        "description-5": "Si lee muchos y acabas un libro rapidio, clikea el boton de 'Ir Amazon' para ver los libros con mas de 300 hojas."
+    },
+    "firstSectionImages": {
+        "images-1": {
+            "img-1": "Images/fisrtSection/1-Image/1-img.jpg",
+            "img-2": "Images/fisrtSection/1-Image/2-img.jpg",
+            "img-3": "Images/fisrtSection/1-Image/3-img.jpg",
+            "img-4": "Images/fisrtSection/1-Image/4-img.jpg"
+        },
+        "images-2": {
+            "img-1": "Images/fisrtSection/2-Image/1-img.jpg",
+            "img-2": "Images/fisrtSection/2-Image/2-img.jpg",
+            "img-3": "Images/fisrtSection/2-Image/3-img.jpg",
+            "img-4": "Images/fisrtSection/2-Image/4-img.jpg"
+        },
+        "images-3": {
+            "img-1": "Images/fisrtSection/3-Image/1-img.jpg",
+            "img-2": "Images/fisrtSection/3-Image/2-img.jpg",
+            "img-3": "Images/fisrtSection/3-Image/3-img.jpg",
+            "img-4": "Images/fisrtSection/3-Image/4-img.jpg"
+        },
+        "images-4": {
+            "img-1": "Images/fisrtSection/4-Image/1-img.jpg",
+            "img-2": "Images/fisrtSection/4-Image/2-img.jpg",
+            "img-3": "Images/fisrtSection/4-Image/3-img.jpg",
+            "img-4": "Images/fisrtSection/4-Image/4-img.jpg"
+        },
+        "images-5": {
+            "img-1": "Images/fisrtSection/5-Image/1-img.jpg",
+            "img-2": "Images/fisrtSection/5-Image/2-img.jpg",
+            "img-3": "Images/fisrtSection/5-Image/3-img.jpg",
+            "img-4": "Images/fisrtSection/5-Image/4-img.jpg"
+        }
+        
+    },
+    "LinkAmazon": {
+        "link-1": "https://www.amazon.com/s?k=libros&__mk_es_US=%C3%85M%C3%85%C5%BD%C3%95%C3%91&ref=nb_sb_noss",
+        "link-2": "https://www.amazon.com/s?k=libros+comedia&__mk_es_US=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=1CHCS35L6O9TS&sprefix=libros+comedia%2Caps%2C277&ref=nb_sb_noss_2",
+        "link-3": "https://www.amazon.com/s?k=libros+para+ni%C3%B1o&__mk_es_US=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2LN3MVXYY805J&sprefix=libros+para+ni%C3%B1o%2Caps%2C294&ref=nb_sb_noss_2",
+        "link-4": "https://www.amazon.com/s?k=libros+de+historias+y+leyenda&__mk_es_US=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=26CSKHRERWFN1&sprefix=libros+de+historias+y+leyenda%2Caps%2C251&ref=nb_sb_noss",
+        "link-5": "https://www.amazon.com/s?k=The+Iliad+%26+The+Odyssey&i=stripbooks-intl-ship&__mk_es_US=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=Y9V1Z803PN2H&sprefix=the+iliad+%26+the+odyssey%2Cstripbooks-intl-ship%2C356&ref=nb_sb_noss_2"
+    },
+    "thirdSection": [
+        {
+            "idContentBook": "2",
+            "ImageBookFirst": "Images/thirdSection/2-firstImg.jpg",
+            "CoverBookBack": "",
+            "BookTitle": "2- El extraño caso de Dr. Jekyll y Mr. Hyde",
+            "BookDescription":"Robert Louis Stevenson fue uno de los gigantes de la novela de aventuras pero también fue uno de los grandes conocedores de la mentalidad humana, por lo que era de rigor que tarde o temprano escribiera un clásico imperecedero como El extraño caso del doctor Jekyll y el señor Hyde (1886). Lúcido testigo de la Revolución Industrial ocurrida en el Reino Unido, Stevenson reflexiona acerca de los límites del método y de la ética científicos, pero, sobre todo y de una manera absorbente e inolvidable, de la dualidad entre el bien y el mal.",
+            "priceSoft": "8.75",
+            "priceHard": "10.18",
+            "linkAmazon": "https://www.amazon.com/-/es/extra%C3%B1o-Jekyll-Cl%C3%A1sicos-ilustrados-Spanish/dp/8417430466/ref=sims_dp_d_dex_popular_subs_t3_v6_d_sccl_1_2/142-9002278-4110357?pd_rd_w=ddk1i&content-id=amzn1.sym.23e3f38e-3b1c-446d-9cce-2cc73f175b99&pf_rd_p=23e3f38e-3b1c-446d-9cce-2cc73f175b99&pf_rd_r=EYVBZH07Q0WRQ7AS9RCE&pd_rd_wg=VCflD&pd_rd_r=67a6ca1e-9b12-4305-9055-d7e021ff6361&pd_rd_i=8417430466&psc=1"
+        },
+        {
+            "idContentBook": "3",
+            "ImageBookFirst": "Images/thirdSection/3-firstImg.jpg",
+            "CoverBookBack": "Images/thirdSection/3-coverBack.jpg",
+            "BookTitle": "3- Manos frías",
+            "BookDescription":"La novela Manos frías está basada en «El andador», nominado a Mejor Guión de Terror en el Festival Internacional de Cine de Terror La ManoFEST. Escalofriante historia de terror psicológico, suspense, misterio que no podrá cerrar hasta el final.",
+            "priceSoft": "12.95",
+            "priceHard": "",
+            "linkAmazon": "https://www.amazon.com/Manos-fr%C3%ADas-historia-misterio-psicol%C3%B3gico/dp/B0CLVDT1PJ/ref=sr_1_1_sspa?dib=eyJ2IjoiMSJ9.enmtWlB_zAgiVEZl8OaNrAzW3CWmzonKbDJbfgZvGS92JDXbSjdbhR1nfwiralcr2t_SnnBMlrDwvqbJVRzuNUziYFHvZCuH0t0XrFkcvnyKP6vSvBj1TEbl-L4ZzvgyabuTMGEw0dN16oC2muhLO3mO3jhyIAmINUM__I31oObkbDDN7nXQLH-I-S94P7bdNOVNHcPqXQjpGNbdzDenpPuSX9ZF9xNmLfnwdsNIi70OsHrHA7PwUCqPgHsns0hKLCzXd5V4y4DSsZ1L6ctC2JyJwB0e1Y2_6c_QcRdyaO0.YlN5pJMM3TotI7P9X6icpXGg7d7XYu1f7q0JX5AAmxA&dib_tag=se&keywords=libros+de+terror&qid=1743806054&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1"
+        },
+        {
+            "idContentBook": "4",
+            "ImageBookFirst": "Images/thirdSection/4-firstImg.jpg",
+            "CoverBookBack": "Images/thirdSection/4-coverBack.jpg",
+            "BookTitle": "4- PACTUM",
+            "BookDescription":"Seducido por una extraña oferta, reserva un fin de semana en un viejo seminario reconvertido en hotel. Pronto descubre que no ha llegado allí por casualidad, hizo un pacto y ha llegado la hora de cumplir su parte. Creer en algo te lleva sólo un instante, dejar de hacerlo puede costarte toda la vida. El Diablo no acepta un no por respuesta, la única puerta que le muestra es la del infierno. Comienza una huida frenética en busca de una salida, una carrera salvaje que le llevará hasta el límite, dónde la vida y la muerte son igual de oscuras, como el fondo de su alma.",
+            "priceSoft": "13.47",
+            "priceHard": "",
+            "linkAmazon": "https://www.amazon.com/PACTUM-perdone-suspense-psicol%C3%B3gico-misterio/dp/B0D9TK56QF/ref=sr_1_2_sspa?__mk_es_US=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dib=eyJ2IjoiMSJ9.enmtWlB_zAgiVEZl8OaNrAzW3CWmzonKbDJbfgZvGS92JDXbSjdbhR1nfwiralcr6Pd3CRiqWyFqFW0ScN_NRz05FBRqg6TMWkuP6HB5TneKP6vSvBj1TEbl-L4ZzvgyabuTMGEw0dN16oC2muhLO3mO3jhyIAmINUM__I31oObkbDDN7nXQLH-I-S94P7bdNOVNHcPqXQjpGNbdzDenpPuSX9ZF9xNmLfnwdsNIi70OsHrHA7PwUCqPgHsns0hKynatKBs4l9YHp9SHPRXwIiv5Js9VXwFeTmuNvZ49fnw.vr2FLXZFU9n8XFDS14IeHZBZpyR9txShDB6u0ykr-uQ&dib_tag=se&keywords=libros+de+terror&qid=1743806579&sr=8-2-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1"
+        },
+        {
+            "idContentBook": "5",
+            "ImageBookFirst": "Images/thirdSection/5-firstImg.jpg",
+            "CoverBookBack": "Images/thirdSection/5-coverBack.jpg",
+            "BookTitle": "5- La Casa de la Muerte",
+            "BookDescription":"Vive una aventura sobrecogedora inspirada en una historia real con la nueva novela “La Casa de la Muerte”. Seis jóvenes estudiantes se van de vacaciones durante la semana de vacaciones de primavera, pero lo que parecía ser solo diversión se convierte en una pesadilla cuando se encuentran atrapados en un aislado pueblo de Kansas llamado Marcoons con sus extraños habitantes. La vivienda apodada 'La Casa de la Muerte', con su repulsivo viejo casero, esconde una presencia fantasmal que pondrá a prueba a los chicos. John, un joven estudiante de lenguas antiguas, intentará resolver el misterio relacionado con los símbolos de una antigua diosa. Te sentirás atraído por un torbellino de suspenso y misterio hasta la última página. 'La casa de la muerte' es una lectura obligada para los amantes de los acertijos y el suspenso.",
+            "priceSoft": "9.47",
+            "priceHard": "",
+            "linkAmazon": "https://www.amazon.com/-/es/Casa-Muerte-Libros-Terror-Spanish/dp/B0C1256BXF/ref=sr_1_4?__mk_es_US=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dib=eyJ2IjoiMSJ9.enmtWlB_zAgiVEZl8OaNrAzW3CWmzonKbDJbfgZvGS92JDXbSjdbhR1nfwiralcr2t_SnnBMlrDwvqbJVRzuNUziYFHvZCuH0t0XrFkcvnyKP6vSvBj1TEbl-L4ZzvgyabuTMGEw0dN16oC2muhLO3mO3jhyIAmINUM__I31oObkbDDN7nXQLH-I-S94P7bdNOVNHcPqXQjpGNbdzDenpPuSX9ZF9xNmLfnwdsNIi70OsHrHA7PwUCqPgHsns0hKynatKBs4l9YHp9SHPRXwIiv5Js9VXwFeTmuNvZ49fnw.S4rycecz_l_zdbFMkirGAIenquJoZaIHDbF2SqOJ5_Y&dib_tag=se&keywords=libros+de+terror&qid=1743806917&sr=8-4"
+        },
+        {
+            "idContentBook": "6",
+            "ImageBookFirst": "Images/thirdSection/6-firstImg.jpg",
+            "CoverBookBack": "",
+            "BookTitle": "6-  Pet Sematary",
+            "BookDescription":"Cuando el Dr. Louis Creed deja Chicago y se traslada con su familia a la idílica ciudad de Ludlow, en Maine, todo en la vida parece sonreírles. Pero en ese paisaje idílico un peligro oculto acecha a la comunidad. Louis estaba seguro: el gato había muerto atropellado, y por eso lo había enterrado. Aun así, incomprensiblemente, el gato había vuelto a casa. Church estaba allí otra vez, como él temía y al mismo tiempo deseaba, porque su hijita Ellie le había pedido que cuidara de él. Louis lo había enterrado más allá del cementerio de animales. Sin embargo, Church había regresado, y sus ojos eran más crueles y perversos que antes. Aunque volvía a estar allí y Ellie no lo lamentaría, el Dr. Louis Creed sí lo haría. Porque más allá del cementerio de animales, más allá de la valla de troncos que nadie se atrevía a traspasar, el maligno poder del antiguo cementerio indio le atraía con promesas seductoras y tentaciones impías... Allí se esconde una verdad escalofriante más aterradora que la muerte misma y horriblemente más poderosa. Como Louis está a punto de descubrir por sí mismo, a veces es mejor estar muerto...",
+            "priceSoft": "18.00",
+            "priceHard": "",
+            "linkAmazon": "https://www.amazon.com/-/es/Cementerio-animales-Sematary-Vintage-Espanol/dp/1984898760/ref=sr_1_5?dib=eyJ2IjoiMSJ9.enmtWlB_zAgiVEZl8OaNrAzW3CWmzonKbDJbfgZvGS92JDXbSjdbhR1nfwiralcr6Pd3CRiqWyFqFW0ScN_NRz05FBRqg6TMWkuP6HB5TneKP6vSvBj1TEbl-L4ZzvgyabuTMGEw0dN16oC2muhLO4baZiRLeO8KtARshxM8-mddzgmeaM8eA5PlaF9iweyaZFBWAd0KN9mZ-tXZTEEBTEetei7VbukPPAwBxnvgcuIOsHrHA7PwUCqPgHsns0hKynatKBs4l9YHp9SHPRXwIiv5Js9VXwFeTmuNvZ49fnw.R6acNS1KyYXpG-6qTGauUKwf0qZfixTaUKO09Tp94hg&dib_tag=se&keywords=libros+de+terror&qid=1743824309&sr=8-5"
+        },
+        {
+            "idContentBook": "7",
+            "ImageBookFirst": "Images/thirdSection/7-firstImg.jpg",
+            "CoverBookBack": "",
+            "BookTitle": "7- Coraline",
+            "BookDescription":"Coraline descubrió la puerta poco después de mudarse a la casa... Cuando Coraline cruza una puerta y encuentra otra casa extrañamente similar a la suya (solo que mejor), todo parece maravilloso.  Pero hay otra madre y otro padre allí, y quieren que se quede y sea su pequeña. Quieren cambiarla y no dejarla ir jamás. Coraline tendrá que luchar con todo su ingenio y valentía para salvarse y volver a su vida normal. Coraline, de Neil Gaiman, es un clásico imperdible que cautiva a lectores de 8 a 12 años, pero también a adultos que disfrutan de una lectura ingeniosa y escalofriante.",
+            "priceSoft": "7.99",
+            "priceHard": "14.39",
+            "linkAmazon": "https://www.amazon.com/-/es/Coraline-Neil-Gaiman/dp/0380807343/ref=sr_1_6?dib=eyJ2IjoiMSJ9.enmtWlB_zAgiVEZl8OaNrAzW3CWmzonKbDJbfgZvGS92JDXbSjdbhR1nfwiralcr6Pd3CRiqWyFqFW0ScN_NRz05FBRqg6TMWkuP6HB5TneKP6vSvBj1TEbl-L4ZzvgyabuTMGEw0dN16oC2muhLO4baZiRLeO8KtARshxM8-mddzgmeaM8eA5PlaF9iweyaZFBWAd0KN9mZ-tXZTEEBTEetei7VbukPPAwBxnvgcuIOsHrHA7PwUCqPgHsns0hKynatKBs4l9YHp9SHPRXwIiv5Js9VXwFeTmuNvZ49fnw.R6acNS1KyYXpG-6qTGauUKwf0qZfixTaUKO09Tp94hg&dib_tag=se&keywords=libros+de+terror&qid=1743824309&sr=8-6"
+        },
+
+        {
+            "idContentBook": "8",
+            "ImageBookFirst": "Images/thirdSection/8-firstImg.jpg",
+            "CoverBookBack": "Images/thirdSection/8-coverBack.jpg",
+            "BookTitle": "8- 40 Relatos de Terror",
+            "BookDescription":"Top5 libros de terror más vendidos en Amazon Cuarenta escritores se han unido para escribir los cuarenta relatos que componen esta antología de terror publicada por el grupo literario Libros, lectores, escritores y una taza de café (LLEC). Brujas, zombis, fantasmas, crímenes escalofriantes, casas encantadas… Los beneficios irán destinados a la Fundación “Hospital amic” de Sant Joan de Déu de Barcelona para la humanización y apoyo del tratamiento de cáncer y la leucemia infantil .",
+            "priceSoft": "12.99",
+            "priceHard": "",
+            "linkAmazon": "https://www.amazon.com/-/es/40-Relatos-Terror-ben%C3%A9fico-Spanish/dp/1539967905/ref=sr_1_8?dib=eyJ2IjoiMSJ9.enmtWlB_zAgiVEZl8OaNrAzW3CWmzonKbDJbfgZvGS92JDXbSjdbhR1nfwiralcr6Pd3CRiqWyFqFW0ScN_NRz05FBRqg6TMWkuP6HB5TneKP6vSvBj1TEbl-L4ZzvgyabuTMGEw0dN16oC2muhLO4baZiRLeO8KtARshxM8-mddzgmeaM8eA5PlaF9iweyaZFBWAd0KN9mZ-tXZTEEBTEetei7VbukPPAwBxnvgcuIOsHrHA7PwUCqPgHsns0hKynatKBs4l9YHp9SHPRXwIiv5Js9VXwFeTmuNvZ49fnw.R6acNS1KyYXpG-6qTGauUKwf0qZfixTaUKO09Tp94hg&dib_tag=se&keywords=libros+de+terror&qid=1743824309&sr=8-8"
+        },
+        {
+            "idContentBook": "9",
+            "ImageBookFirst": "Images/thirdSection/9-firstImg.jpg",
+            "CoverBookBack": "",
+            "BookTitle": "9- The Outsider: A Novel",
+            "BookDescription":"El cadáver violado de un niño de once años es descubierto en un parque. Testigos oculares y huellas dactilares apuntan inequívocamente a uno de los ciudadanos más populares de Flint City: Terry Maitland, entrenador de las ligas infantiles, profesor de inglés, esposo y padre de dos niñas. El detective Ralph Anderson, cuyo hijo Maitland fue entrenador, ordena un arresto rápido y público. Maitland tiene una coartada, pero Anderson y el fiscal del distrito pronto tienen pruebas de ADN que complementan las huellas dactilares y los testigos. Su caso parece irrefutable. A medida que la investigación se expande y surgen detalles espeluznantes, la historia de King cobra impulso, generando una fuerte tensión y un suspense casi insoportable. Terry Maitland parece un buen tipo, pero ¿acaso tiene otra cara? Cuando llegue la respuesta, te impactará como solo Stephen King puede.",
+            "priceSoft": "11.86",
+            "priceHard": "16.79",
+            "linkAmazon": "https://www.amazon.com/Outsider-Novel-Stephen-King/dp/1501180983/ref=sxin_16_pa_sp_search_thematic_sspa?content-id=amzn1.sym.1091e5b8-0ff4-492a-aa0b-7bc8b59253c6%3Aamzn1.sym.1091e5b8-0ff4-492a-aa0b-7bc8b59253c6&cv_ct_cx=libros+de+terror&keywords=libros+de+terror&pd_rd_i=1501180983&pd_rd_r=dd62836b-e8c9-47e9-864d-763c187d0667&pd_rd_w=aY9eY&pd_rd_wg=ol8Tc&pf_rd_p=1091e5b8-0ff4-492a-aa0b-7bc8b59253c6&pf_rd_r=C1D2NR6JX1RNBT596V4D&qid=1743824309&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&sr=1-2-6024b2a3-78e4-4fed-8fed-e1613be3bcce-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9zZWFyY2hfdGhlbWF0aWM&psc=1"
+        },
+        {
+            "idContentBook": "10",
+            "ImageBookFirst": "Images/thirdSection/10-firstImg.jpg",
+            "CoverBookBack": "Images/thirdSection/10-coverBack.jpg",
+            "BookTitle": "10- Terror Mexicano",
+            "BookDescription":"32 Historias basadas en diferentes leyendas de México, cada estado representa una icónica historia de horror y misterio, combinado con el folclor del país. Acompaña a los protagonistas de esta narración en el terror. Muerte, traición, suspenso, son algunas de las sensaciones que vivirás a través de cada lectura.Cada capítulo cuenta con una historia inédita, conocerás desde la casa negra de la roma, donde un grupo de amigos deciden hacer exploración urbana para terminar siendo acosados por los entes que penan en aquel sitio. Hasta lugares históricos como el hotel Jobito en zacatecas, donde los vivos no son los únicos inquilinos. También encontrarás criaturas de las que jamás has oído como el huay chivo. Y recuerda, se solidario con los pobres seres humanos que han sido maldecidos por seguir sus deseos.",
+            "priceSoft": "16.99",
+            "priceHard": "",
+            "linkAmazon": "https://www.amazon.com/-/es/Terror-Mexicano-Diferentes-historias-leyendas/dp/B089TZTLHC/ref=sr_1_11?dib=eyJ2IjoiMSJ9.enmtWlB_zAgiVEZl8OaNrAzW3CWmzonKbDJbfgZvGS92JDXbSjdbhR1nfwiralcr6Pd3CRiqWyFqFW0ScN_NRz05FBRqg6TMWkuP6HB5TneKP6vSvBj1TEbl-L4ZzvgyabuTMGEw0dN16oC2muhLO4baZiRLeO8KtARshxM8-mddzgmeaM8eA5PlaF9iweyaZFBWAd0KN9mZ-tXZTEEBTEetei7VbukPPAwBxnvgcuIOsHrHA7PwUCqPgHsns0hKynatKBs4l9YHp9SHPRXwIiv5Js9VXwFeTmuNvZ49fnw.R6acNS1KyYXpG-6qTGauUKwf0qZfixTaUKO09Tp94hg&dib_tag=se&keywords=libros+de+terror&qid=1743824309&sr=8-11"
+        },
+        {
+            "idContentBook": "11",
+            "ImageBookFirst": "Images/thirdSection/11-firstImg.jpg",
+            "CoverBookBack": "Images/thirdSection/11-coverBack.jpg",
+            "BookTitle": "11- SUEÑOS MACABROS",
+            "BookDescription":"Sueños Macabros (2023) es un libro de horror donde Sebastian B., uno de nuestros primeros entrevistados, nos confía sus historias que han sido un infierno desde que tiene 7 años hasta la actualidad. Ha sido atormentado por una entidad infernal con dos profundos y oscuros huecos en lugar de ojos llamada Samantha, ha tenido sueños completamente lúcidos en los que es descuartizado y que solo acaban con su lenta muerte y ahora se arrepiente de acciones que hizo solo por cargar con este trauma. Esta aterradora obra incluye más de 40 ilustraciones realistas hechas con Inteligencia Artificial que han sido creadas con el fin de asemejarse a la realidad de aquellos macabros episodios. El libro abarca 5 historias principales desde el inicio de sus pesadillas, cuando tenía tanto solo 7 años, y que continúan hasta la actualidad, luego de 15 años.",
+            "priceSoft": "25.00",
+            "priceHard": "30.00",
+            "linkAmazon": "https://www.amazon.com/-/es/SUE%C3%91OS-MACABROS-Historias-ilustradas-macabros/dp/B0CNWQR1F2/ref=sr_1_12?dib=eyJ2IjoiMSJ9.enmtWlB_zAgiVEZl8OaNrAzW3CWmzonKbDJbfgZvGS92JDXbSjdbhR1nfwiralcr6Pd3CRiqWyFqFW0ScN_NRz05FBRqg6TMWkuP6HB5TneKP6vSvBj1TEbl-L4ZzvgyabuTMGEw0dN16oC2muhLO4baZiRLeO8KtARshxM8-mddzgmeaM8eA5PlaF9iweyaZFBWAd0KN9mZ-tXZTEEBTEetei7VbukPPAwBxnvgcuIOsHrHA7PwUCqPgHsns0hKynatKBs4l9YHp9SHPRXwIiv5Js9VXwFeTmuNvZ49fnw.R6acNS1KyYXpG-6qTGauUKwf0qZfixTaUKO09Tp94hg&dib_tag=se&keywords=libros+de+terror&qid=1743824309&sr=8-12"
+        },
+        {
+            "idContentBook": "12",
+            "ImageBookFirst": "Images/thirdSection/12-firstImg.jpg",
+            "CoverBookBack": "Images/thirdSection/12-coverBack.jpg",
+            "BookTitle": "12- EL DIABLO Y LA PIEDRA",
+            "BookDescription":"Una invocación, cinco sacrificios humanos y un hombre dispuesto a todo por volver a abrazar a su hijo muerto. Pero esta noche, no será la Muerte quien responda a su llamada. Dos señores del inframundo han escuchado la súplica, y ninguno está dispuesto a ceder su derecho al premio. Malcolm, un demonio veterano, acude a lo que parece ser una ofrenda perfecta, una invocación a Satanás realizada con una precisión impecable por un hombre que oculta su identidad. Sin embargo, cuando una segunda entidad infernal aparece, reclamando su propio dominio sobre las víctimas, el equilibrio de poder se desmorona. Lo que comienza como una disputa territorial se convierte rápidamente en una lucha feroz donde lo sobrenatural y lo mortal se entrelazan de manera inextricable. Incluso para Malcolm, un ser forjado en los abismos del Infierno, distinguir entre cazadores y presas se convierte en un reto mortal.",
+            "priceSoft": "8.99",
+            "priceHard": "14.99",
+            "linkAmazon": "https://www.amazon.com/-/es/EL-DIABLO-PIEDRA-llegarias-venganza/dp/B09LGQRG6B/ref=sr_1_13?dib=eyJ2IjoiMSJ9.enmtWlB_zAgiVEZl8OaNrAzW3CWmzonKbDJbfgZvGS92JDXbSjdbhR1nfwiralcr6Pd3CRiqWyFqFW0ScN_NRz05FBRqg6TMWkuP6HB5TneKP6vSvBj1TEbl-L4ZzvgyabuTMGEw0dN16oC2muhLO4baZiRLeO8KtARshxM8-mddzgmeaM8eA5PlaF9iweyaZFBWAd0KN9mZ-tXZTEEBTEetei7VbukPPAwBxnvgcuIOsHrHA7PwUCqPgHsns0hKynatKBs4l9YHp9SHPRXwIiv5Js9VXwFeTmuNvZ49fnw.R6acNS1KyYXpG-6qTGauUKwf0qZfixTaUKO09Tp94hg&dib_tag=se&keywords=libros+de+terror&qid=1743824309&sr=8-13"
+        },
+        {
+            "idContentBook": "13",
+            "ImageBookFirst": "Images/thirdSection/13-firstImg.jpg",
+            "CoverBookBack": "",
+            "BookTitle": "13- El resplandor / The Shining",
+            "BookDescription":"“REDRUM”. Esa es la palabra que Danny había visto en el espejo. Y, aunque no sabía leer, entendió que era un mensaje de horror. Danny tenía cinco años, y a esa edad pocos niños saben que los espejos invierten las imágenes y menos aún saben diferenciar entre realidad y fantasía. Pero Danny tenía pruebas de que sus fantasías relacionadas con el resplandor del espejo acabarían cumpliéndose: REDRUM... MURDER, asesinato. Su padre necesitaba aquel trabajo en el hotel. Danny sabía que su madre pensaba en el divorcio y que su padre se obsesionaba con algo muy malo, tan malo como la muerte y el suicidio. Sí, su padre necesitaba aceptar la propuesta de cuidar de aquel hotel de lujo de más de cien habitaciones, vacío y aislado por la nieve durante seis meses. Hasta el deshielo iban a estar solos. ¿Solos?...",
+            "priceSoft": "18.11",
+            "priceHard": "15.23",
+            "linkAmazon": "https://www.amazon.com/-/es/resplandor-Shining-Spanish-Stephen-King/dp/059331123X/ref=sr_1_14?dib=eyJ2IjoiMSJ9.enmtWlB_zAgiVEZl8OaNrAzW3CWmzonKbDJbfgZvGS92JDXbSjdbhR1nfwiralcr6Pd3CRiqWyFqFW0ScN_NRz05FBRqg6TMWkuP6HB5TneKP6vSvBj1TEbl-L4ZzvgyabuTMGEw0dN16oC2muhLO4baZiRLeO8KtARshxM8-mddzgmeaM8eA5PlaF9iweyaZFBWAd0KN9mZ-tXZTEEBTEetei7VbukPPAwBxnvgcuIOsHrHA7PwUCqPgHsns0hKynatKBs4l9YHp9SHPRXwIiv5Js9VXwFeTmuNvZ49fnw.R6acNS1KyYXpG-6qTGauUKwf0qZfixTaUKO09Tp94hg&dib_tag=se&keywords=libros+de+terror&qid=1743824309&sr=8-14"
+        },
+        {
+            "idContentBook": "14",
+            "ImageBookFirst": "Images/thirdSection/14-firstImg.jpg",
+            "CoverBookBack": "",
+            "BookTitle": "14- Sombras Ancestrales:: Relatos Paranormales de los Pueblos de México ",
+            "BookDescription":"Adéntrate en las oscuras noches de los pueblos de Michoacán, Morelos y Estado de México, donde las sombras cobran vida y los secretos ancestrales susurran entre sus habitantes. En este fascinante compendio de terror, descubre las leyendas que han perdurado generación tras generación, transmitidas en susurros durante reuniones familiares, entre amigos y vecinos. En el corazón de esta trama se encuentra Arturo, un protagonista común cuya vida dará un giro inesperado al despertar un don sobrenatural. Su capacidad para sentir y presenciar sucesos paranormales desatará una serie de eventos que desafiarán la realidad conocida.",
+            "priceSoft": "7.90",
+            "priceHard": "",
+            "linkAmazon": "https://www.amazon.com/-/es/GERARDO-TAPIA-GARCIA-ebook/dp/B0CR37BY64/ref=sr_1_16?dib=eyJ2IjoiMSJ9.enmtWlB_zAgiVEZl8OaNrAzW3CWmzonKbDJbfgZvGS92JDXbSjdbhR1nfwiralcr6Pd3CRiqWyFqFW0ScN_NRz05FBRqg6TMWkuP6HB5TneKP6vSvBj1TEbl-L4ZzvgyabuTMGEw0dN16oC2muhLO4baZiRLeO8KtARshxM8-mddzgmeaM8eA5PlaF9iweyaZFBWAd0KN9mZ-tXZTEEBTEetei7VbukPPAwBxnvgcuIOsHrHA7PwUCqPgHsns0hKynatKBs4l9YHp9SHPRXwIiv5Js9VXwFeTmuNvZ49fnw.R6acNS1KyYXpG-6qTGauUKwf0qZfixTaUKO09Tp94hg&dib_tag=se&keywords=libros+de+terror&qid=1743824309&sr=8-16"
+        },
+
+        {
+            "idContentBook": "15",
+            "ImageBookFirst": "Images/thirdSection/15-firstImg.jpg",
+            "CoverBookBack": "",
+            "BookTitle": "15- 1984 GEORGE ORWELL",
+            "BookDescription":"En el año 1984 Londres es una ciudad lúgubre en la que la Policía del Pensamiento controla de forma asfixiante la vida de los ciudadanos. Winston Smith es un peón de este engranaje perverso y su cometido es reescribir la historia para adaptarla a lo que el Partido considera la versión oficial de los hechos. Hasta que decide replantearse la verdad del sistema que los gobierna y somete.",
+            "priceSoft": "12.97",
+            "priceHard": "18.03",
+            "linkAmazon": "https://www.amazon.com/-/es/Contemporanea-Debolsillo-Spanish-George-Orwell/dp/8499890946/ref=sr_1_15?dib=eyJ2IjoiMSJ9.enmtWlB_zAgiVEZl8OaNrAzW3CWmzonKbDJbfgZvGS92JDXbSjdbhR1nfwiralcr6Pd3CRiqWyFqFW0ScN_NRz05FBRqg6TMWkuP6HB5TneKP6vSvBj1TEbl-L4ZzvgyabuTMGEw0dN16oC2muhLO4baZiRLeO8KtARshxM8-mddzgmeaM8eA5PlaF9iweyaZFBWAd0KN9mZ-tXZTEEBTEetei7VbukPPAwBxnvgcuIOsHrHA7PwUCqPgHsns0hKynatKBs4l9YHp9SHPRXwIiv5Js9VXwFeTmuNvZ49fnw.R6acNS1KyYXpG-6qTGauUKwf0qZfixTaUKO09Tp94hg&dib_tag=se&keywords=libros+de+terror&qid=1743824309&sr=8-15"
+        },
+        {
+            "idContentBook": "16",
+            "ImageBookFirst": "Images/thirdSection/16-firstImg.jpg",
+            "CoverBookBack": "Images/thirdSection/16-coverBack.jpg",
+            "BookTitle": "16- Leyendas De Terror I",
+            "BookDescription":"El siguiente libro es un compendio de diversas leyendas detoda la nación mexicana contadas del boca en boca conlas eras y el disfrute, deleite y goce, del pasado paranuestras nuevas generaciones de lectores, espero sea desu agrado mis amigos y amigas fue hecho con muchadedicación y cariño para mis lectores gracias a ustedes porimpulsarme a darles mas contenido variado.",
+            "priceSoft": "13.00",
+            "priceHard": "50.00",
+            "linkAmazon": "https://www.amazon.com/Leyendas-Terror-compendio-leyendas-mexicanas/dp/B08MSKDJ5N/ref=sr_1_18_sspa?dib=eyJ2IjoiMSJ9.enmtWlB_zAgiVEZl8OaNrAzW3CWmzonKbDJbfgZvGS92JDXbSjdbhR1nfwiralcr6Pd3CRiqWyFqFW0ScN_NRz05FBRqg6TMWkuP6HB5TneKP6vSvBj1TEbl-L4ZzvgyabuTMGEw0dN16oC2muhLO4baZiRLeO8KtARshxM8-mddzgmeaM8eA5PlaF9iweyaZFBWAd0KN9mZ-tXZTEEBTEetei7VbukPPAwBxnvgcuIOsHrHA7PwUCqPgHsns0hKynatKBs4l9YHp9SHPRXwIiv5Js9VXwFeTmuNvZ49fnw.R6acNS1KyYXpG-6qTGauUKwf0qZfixTaUKO09Tp94hg&dib_tag=se&keywords=libros+de+terror&qid=1743824309&sr=8-18-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9tdGY&psc=1"
+        },
+        {
+            "idContentBook": "17",
+            "ImageBookFirst": "Images/thirdSection/17-firstImg.jpg",
+            "CoverBookBack": "",
+            "BookTitle": "17- Creepypastas: historias de terror 2.0",
+            "BookDescription":"La palabra creepypasta es una conjunción de dos vocablos ingleses, “creepy”, que significa tenebroso o siniestro, y “pasta”, alteración de paste, que se traduce como pegar. Son historias de terror que se crean y expanden a través de Internet, de naturaleza sobrenatural o escabrosa. Tratan de asustar e impactar al lector, y en muchas ocasiones van acompañadas de imágenes o vídeos. En Creepypastas: historias de terror 2.0 se recogen los mejores relatos de este género, aportando también una visión más amplia sobre su origen, sus autores, la influencia de estos y cómo Internet ha convertido en iconos culturales a seres como Slenderman o Jeff The Killer. En este primer libro en castellano sobre la materia, el autor busca ahondar en los orígenes de las creepypastas, esclarecer cómo surgen, cómo evolucionan y cómo se comparten, para arrojar un poco más de luz sobre estas tenebrosas historias que te pondrán los pelos de punta.",
+            "priceSoft": "12.00",
+            "priceHard": "",
+            "linkAmazon": "https://www.amazon.com/-/es/Creepypastas-historias-terror-2-0-Spanish/dp/1516928709/ref=sr_1_19?dib=eyJ2IjoiMSJ9.enmtWlB_zAgiVEZl8OaNrAzW3CWmzonKbDJbfgZvGS92JDXbSjdbhR1nfwiralcr6Pd3CRiqWyFqFW0ScN_NRz05FBRqg6TMWkuP6HB5TneKP6vSvBj1TEbl-L4ZzvgyabuTMGEw0dN16oC2muhLO4baZiRLeO8KtARshxM8-mddzgmeaM8eA5PlaF9iweyaZFBWAd0KN9mZ-tXZTEEBTEetei7VbukPPAwBxnvgcuIOsHrHA7PwUCqPgHsns0hKynatKBs4l9YHp9SHPRXwIiv5Js9VXwFeTmuNvZ49fnw.R6acNS1KyYXpG-6qTGauUKwf0qZfixTaUKO09Tp94hg&dib_tag=se&keywords=libros+de+terror&qid=1743824309&sr=8-19"
+        },
+        {
+            "idContentBook": "18",
+            "ImageBookFirst": "Images/thirdSection/18-firstImg.jpg",
+            "CoverBookBack": "Images/thirdSection/18-coverBack.jpg",
+            "BookTitle": "18- Cuando el terror escribe",
+            "BookDescription":"El terror psicológico los dirigirá hacia los confines de esta novela; es el faro que entrelaza todas las historias que cobran vida en estas tenebrosas páginas. Los misterios deambulan libres, y los personajes se enfrentarán a travesías que, hasta ahora, creíamos no escritas. Sigilosamente, mientras nos fundimos con los colores de la narración, descubriremos nuevos y envolventes pasadizos; entraremos en las furtivas cabezas de los protagonistas y nos sorprenderemos con sus hallazgos. Los libretos originales se han distorsionado para dar paso a la aventura más genuina. Sin guiones, los integrantes de la familia Richter lucharán contra insólitos enemigos.",
+            "priceSoft": "19.90",
+            "priceHard": "27.90",
+            "linkAmazon": "https://www.amazon.com/-/es/Cuando-terror-escribe-demonios-Spanish/dp/B0DTZ1YRHN/ref=sr_1_20?dib=eyJ2IjoiMSJ9.enmtWlB_zAgiVEZl8OaNrAzW3CWmzonKbDJbfgZvGS92JDXbSjdbhR1nfwiralcr6Pd3CRiqWyFqFW0ScN_NRz05FBRqg6TMWkuP6HB5TneKP6vSvBj1TEbl-L4ZzvgyabuTMGEw0dN16oC2muhLO4baZiRLeO8KtARshxM8-mddzgmeaM8eA5PlaF9iweyaZFBWAd0KN9mZ-tXZTEEBTEetei7VbukPPAwBxnvgcuIOsHrHA7PwUCqPgHsns0hKynatKBs4l9YHp9SHPRXwIiv5Js9VXwFeTmuNvZ49fnw.R6acNS1KyYXpG-6qTGauUKwf0qZfixTaUKO09Tp94hg&dib_tag=se&keywords=libros+de+terror&qid=1743824309&sr=8-20"
+        },
+        {
+            "idContentBook": "19",
+            "ImageBookFirst": "Images/thirdSection/19-firstImg.jpg",
+            "CoverBookBack": "",
+            "BookTitle": "19- Cuentos de terror de H.P. Lovecraft",
+            "BookDescription":"En todo el mundo el nombre de Howard Philips Lovecraft es sinónimo de terror literarios y es considerado por muchos sectores sociales como un autor de culto. Y esto no es fortuito o una moda pasajera, sino el reflejo de su gran calidad literaria y su vasta imaginación. De hecho, los escritores de uno de los cómics que más éxito ha tenido en todo el mundo, fueron inspirados por la obra de Lovercraft para crear el Asilo (o Manicomio) Arkham, donde se recluyen personajes como El Guasón (o Jocker), El Pingüino, Dos Caras, Bane, El Acertijo... enemigos acérrimos de Batman. Es por ello que le ofrecemos, una muestra de los cuentos más representativos de este autor de culto, seleccionados por el reconocido escritor Ricardo Guzmán Wolffer. Sin duda un libro que deber ser leído por propios y ajenos, sean o no amantes del género de terror, por el simple hecho de gozar de una de las mejores plumas de todos los tiempos.",
+            "priceSoft": "13.99",
+            "priceHard": "",
+            "linkAmazon": "https://www.amazon.com/-/es/Cuentos-terror-H-P-Lovecraft-Spanish/dp/151426000X/ref=sr_1_21?dib=eyJ2IjoiMSJ9.enmtWlB_zAgiVEZl8OaNrAzW3CWmzonKbDJbfgZvGS92JDXbSjdbhR1nfwiralcr6Pd3CRiqWyFqFW0ScN_NRz05FBRqg6TMWkuP6HB5TneKP6vSvBj1TEbl-L4ZzvgyabuTMGEw0dN16oC2muhLO4baZiRLeO8KtARshxM8-mddzgmeaM8eA5PlaF9iweyaZFBWAd0KN9mZ-tXZTEEBTEetei7VbukPPAwBxnvgcuIOsHrHA7PwUCqPgHsns0hKynatKBs4l9YHp9SHPRXwIiv5Js9VXwFeTmuNvZ49fnw.R6acNS1KyYXpG-6qTGauUKwf0qZfixTaUKO09Tp94hg&dib_tag=se&keywords=libros+de+terror&qid=1743824309&sr=8-21"
+        },
+        {
+            "idContentBook": "20",
+            "ImageBookFirst": "Images/thirdSection/20-firstImg.jpg",
+            "CoverBookBack": "Images/thirdSection/20-coverBack.jpg",
+            "BookTitle": "20- Damián: Un secreto oscuro y perverso",
+            "BookDescription": "Padme ha vivido durante toda su vida en el pueblo de Asfil. Es una chica normal, buena. O eso parece. En el fondo tiene varios secretos, y uno de ellos se llama Damián. Es su peculiar vecino, que siempre le dio la impresión de estar ocultando algo y a quien ella trató de descifrar sin éxito. Un día, Damián desaparece y su vida sigue un curso corriente, pero meses después vuelve, y con él regresa la peligrosa curiosidad que Padme tanto intentó reprimir. Ella decide, finalmente, seguirlo. Es entonces cuando descubre eso que tanto Damián como Asfil, han intentado...¿esconder? ¿Y si te preparas para adentrarte en este perverso mundo? Aquí no existen la moral ni la cordura. Si decides dejar eso atrás, entonces ellos te recibirán..",
+            "priceSoft": "20.61",
+            "priceHard": "",
+            "linkAmazon": "https://www.amazon.com/-/es/Dami%C3%A1n-secreto-oscuro-perverso-Spanish/dp/B0B2TTVQK2/ref=sr_1_25?dib=eyJ2IjoiMSJ9.enmtWlB_zAgiVEZl8OaNrAzW3CWmzonKbDJbfgZvGS92JDXbSjdbhR1nfwiralcr6Pd3CRiqWyFqFW0ScN_NRz05FBRqg6TMWkuP6HB5TneKP6vSvBj1TEbl-L4ZzvgyabuTMGEw0dN16oC2muhLO4baZiRLeO8KtARshxM8-mddzgmeaM8eA5PlaF9iweyaZFBWAd0KN9mZ-tXZTEEBTEetei7VbukPPAwBxnvgcuIOsHrHA7PwUCqPgHsns0hKynatKBs4l9YHp9SHPRXwIiv5Js9VXwFeTmuNvZ49fnw.R6acNS1KyYXpG-6qTGauUKwf0qZfixTaUKO09Tp94hg&dib_tag=se&keywords=libros+de+terror&qid=1743824309&sr=8-25"
+        },
+        {
+            "idContentBook": "21",
+            "ImageBookFirst": "Images/thirdSection/21-firstImg.jpg",
+            "CoverBookBack": "Images/thirdSection/21-coverBack.jpg",
+            "BookTitle": "21- Aterradoras Leyendas Mexicanas: Volumen II",
+            "BookDescription":"En esta compilación de aterradoras leyendas mexicanas recorreremos las más perturbadoras historias que los estados de Colima, Durango, Estado de México, Guanajuato, Guerrero, Hidalgo, Jalisco y Michoacán tienen para ofrecer, las cuales te erizarán la piel y te darán pánico al apagar las luces. Déjate atrapar por las 113 leyendas que encontrarás en el libro. Vive el terror como lo sintieron cada uno de los protagonistas mientras tu mente viaja por el folclor mexicano.",
+            "priceSoft": "11.00",
+            "priceHard": "",
+            "linkAmazon": "https://www.amazon.com/-/es/Aterradoras-Leyendas-Mexicanas-Volumen-Spanish/dp/B0BRC4P798/ref=sr_1_26?dib=eyJ2IjoiMSJ9.enmtWlB_zAgiVEZl8OaNrAzW3CWmzonKbDJbfgZvGS92JDXbSjdbhR1nfwiralcr6Pd3CRiqWyFqFW0ScN_NRz05FBRqg6TMWkuP6HB5TneKP6vSvBj1TEbl-L4ZzvgyabuTMGEw0dN16oC2muhLO4baZiRLeO8KtARshxM8-mddzgmeaM8eA5PlaF9iweyaZFBWAd0KN9mZ-tXZTEEBTEetei7VbukPPAwBxnvgcuIOsHrHA7PwUCqPgHsns0hKynatKBs4l9YHp9SHPRXwIiv5Js9VXwFeTmuNvZ49fnw.R6acNS1KyYXpG-6qTGauUKwf0qZfixTaUKO09Tp94hg&dib_tag=se&keywords=libros+de+terror&qid=1743824309&sr=8-26"
+        },
+        {
+            "idContentBook": "22",
+            "ImageBookFirst": "Images/thirdSection/22-firstImg.jpg",
+            "CoverBookBack": "Images/thirdSection/22-coverBack.jpg",
+            "BookTitle": "22- Crónicas de Terror: Historias basadas en hechos reales",
+            "BookDescription":"Crónicas de terror te invita a un inquietante viaje a través de historias donde lo desconocido y lo siniestro se manifiestan de formas inesperadas. Desde fenómenos paranormales que desafían la razón hasta misterios aún sin resolver, esta colección explora encuentros perturbadores con el mal, dejando una huella profunda en quienes los vivieron. Cada relato tiene su propia atmósfera y escenario, pero todos están unidos por una presencia oscura que acecha, adaptándose y avanzando sin importar el lugar ni el tiempo.",
+            "priceSoft": "13.73",
+            "priceHard": "22.19",
+            "linkAmazon": "https://www.amazon.com/-/es/Cr%C3%B3nicas-Terror-Historias-basadas-Spanish/dp/B0DKD6TD5B/ref=sr_1_27?dib=eyJ2IjoiMSJ9.enmtWlB_zAgiVEZl8OaNrAzW3CWmzonKbDJbfgZvGS92JDXbSjdbhR1nfwiralcr6Pd3CRiqWyFqFW0ScN_NRz05FBRqg6TMWkuP6HB5TneKP6vSvBj1TEbl-L4ZzvgyabuTMGEw0dN16oC2muhLO4baZiRLeO8KtARshxM8-mddzgmeaM8eA5PlaF9iweyaZFBWAd0KN9mZ-tXZTEEBTEetei7VbukPPAwBxnvgcuIOsHrHA7PwUCqPgHsns0hKynatKBs4l9YHp9SHPRXwIiv5Js9VXwFeTmuNvZ49fnw.R6acNS1KyYXpG-6qTGauUKwf0qZfixTaUKO09Tp94hg&dib_tag=se&keywords=libros+de+terror&qid=1743824309&sr=8-27"
+        },
+        {
+            "idContentBook": "23",
+            "ImageBookFirst": "Images/thirdSection/23-firstImg.jpg",
+            "CoverBookBack": "",
+            "BookTitle": "23- TERROR PARA LEER EN LA OSCURIDAD",
+            "BookDescription":"Ya no busques más esa historia de terror o suspense en particular que deseas. En este libro encontrarás esas historias que anhelas leer donde hallarás en cada línea el terror y el misterio que te impedirán dejarlo a medias. TERROR PARA LEER EN LA OSCURIDAD es un libro pensado para los amantes del misterio y suspense con 3 fascinantes y trepidantes historias que te encantarán. Créeme, no podrás dejar de leer una vez que comiences…",
+            "priceSoft": "6.99",
+            "priceHard": "",
+            "linkAmazon": "https://www.amazon.com/-/es/Walker-Rex-ebook/dp/B08HY7HWK2/ref=sr_1_28?dib=eyJ2IjoiMSJ9.enmtWlB_zAgiVEZl8OaNrAzW3CWmzonKbDJbfgZvGS92JDXbSjdbhR1nfwiralcr6Pd3CRiqWyFqFW0ScN_NRz05FBRqg6TMWkuP6HB5TneKP6vSvBj1TEbl-L4ZzvgyabuTMGEw0dN16oC2muhLO4baZiRLeO8KtARshxM8-mddzgmeaM8eA5PlaF9iweyaZFBWAd0KN9mZ-tXZTEEBTEetei7VbukPPAwBxnvgcuIOsHrHA7PwUCqPgHsns0hKynatKBs4l9YHp9SHPRXwIiv5Js9VXwFeTmuNvZ49fnw.R6acNS1KyYXpG-6qTGauUKwf0qZfixTaUKO09Tp94hg&dib_tag=se&keywords=libros+de+terror&qid=1743824309&sr=8-28"
+        },
+        {
+            "idContentBook": "24",
+            "ImageBookFirst": "Images/thirdSection/24-firstImg.jpg",
+            "CoverBookBack": "Images/thirdSection/24-coverBack.jpg",
+            "BookTitle": "24- Aterradoras Leyendas Mexicanas: Volumen I",
+            "BookDescription":"Por su milenaria historia, México es el país donde se conjuntan una serie de eventos trágicos, el culto a la muerte y hechos sobrenaturales, volviéndolo el escenario perfecto para que la imaginación vuele mientras busca dar respuesta a las historias que no pueden ser explicadas y que siguen atemorizando hasta nuestros días.  En esta compilación de aterradoras leyendas mexicanas recorreremos las más perturbadoras historias que los estados de Aguascalientes, Baja California, Baja California Sur, Campeche, Chiapas, Chihuahua, Ciudad de México y Coahuila tienen para ofrecer, las cuales te erizarán la piel y te darán pánico al apagar las luces. Déjate atrapar por las 123 leyendas que encontrarás en el libro. Vive el terror como lo sintieron cada uno de los protagonistas mientras tu mente viaja por el folclor mexicano.",
+            "priceSoft": "11.00",
+            "priceHard": "",
+            "linkAmazon": "https://www.amazon.com/-/es/Aterradoras-Leyendas-Mexicanas-Volumen-Spanish/dp/B09VWG7TRG/ref=sr_1_32?dib=eyJ2IjoiMSJ9.enmtWlB_zAgiVEZl8OaNrAzW3CWmzonKbDJbfgZvGS92JDXbSjdbhR1nfwiralcr6Pd3CRiqWyFqFW0ScN_NRz05FBRqg6TMWkuP6HB5TneKP6vSvBj1TEbl-L4ZzvgyabuTMGEw0dN16oC2muhLO4baZiRLeO8KtARshxM8-mddzgmeaM8eA5PlaF9iweyaZFBWAd0KN9mZ-tXZTEEBTEetei7VbukPPAwBxnvgcuIOsHrHA7PwUCqPgHsns0hKynatKBs4l9YHp9SHPRXwIiv5Js9VXwFeTmuNvZ49fnw.R6acNS1KyYXpG-6qTGauUKwf0qZfixTaUKO09Tp94hg&dib_tag=se&keywords=libros+de+terror&qid=1743824309&sr=8-32"
+        },
+        {
+            "idContentBook": "25",
+            "ImageBookFirst": "Images/thirdSection/25-firstImg.jpg",
+            "CoverBookBack": "Images/thirdSection/25-coverBack.jpg",
+            "BookTitle": "25- El caso de la familia desaparecida",
+            "BookDescription":"Tom y Nadine son una joven pareja de detectives de la Brigada de Crímenes Graves en el Distrito 12 de Boston Central, acostumbrados a resolver todo tipo de crímenes. Aunque esta vez deberán lidiar con un enigma que afecta personalmente a uno de ellos, y que durante años ha sido un signo de interrogación para la comunidad: la pareja sentimental de Tom, Yvette, acaba de mudarse a «la casa de la abuela», tristemente célebre desde que unos años atrás todos sus habitantes desaparecieron sin dejar rastro, a excepción de la señora Neville —es decir, la «abuela». Yvette resta importancia a esos hechos turbios, y poco a poco Tom se va dejando convencer por ella. Sin embargo, un inesperado hallazgo en la casa los conducirá a retomar la investigación. ¿Podrán los detectives resolver el misterio de la familia desaparecida?",
+            "priceSoft": "10.18",
+            "priceHard": "",
+            "linkAmazon": "https://www.amazon.com/-/es/El-caso-familia-desaparecida-polic%C3%ADaca/dp/179841323X/ref=sr_1_31?dib=eyJ2IjoiMSJ9.enmtWlB_zAgiVEZl8OaNrAzW3CWmzonKbDJbfgZvGS92JDXbSjdbhR1nfwiralcr6Pd3CRiqWyFqFW0ScN_NRz05FBRqg6TMWkuP6HB5TneKP6vSvBj1TEbl-L4ZzvgyabuTMGEw0dN16oC2muhLO4baZiRLeO8KtARshxM8-mddzgmeaM8eA5PlaF9iweyaZFBWAd0KN9mZ-tXZTEEBTEetei7VbukPPAwBxnvgcuIOsHrHA7PwUCqPgHsns0hKynatKBs4l9YHp9SHPRXwIiv5Js9VXwFeTmuNvZ49fnw.R6acNS1KyYXpG-6qTGauUKwf0qZfixTaUKO09Tp94hg&dib_tag=se&keywords=libros+de+terror&qid=1743824309&sr=8-31"
+        },
+        {
+            "idContentBook": "26",
+            "ImageBookFirst": "Images/thirdSection/26-firstImg.jpg",
+            "CoverBookBack": "Images/thirdSection/26-coverBack.jpg",
+            "BookTitle": "26- El Miedo Está Aquí: Historias Para Leer Y Contar ",
+            "BookDescription":"De la pluma del reconocido investigador paranormal El DoQmentalista (Inri David Hernández Ríos) y el escritor de terror Maximiliano Giménez, llega una colección de relatos que desafían los límites entre la realidad y lo sobrenatural. Este libro te sumerge en un mundo donde los miedos más profundos cobran vida y las pesadillas se hacen realidad. A través de 22 inquietantes historias, descubrirás los secretos mejor guardados del FBI, conocerás a 'Paralímpica', una misteriosa entidad que protege a las niñas en peligro, te estremecerás con los horrores que aguardan en la 'Torre del Diablo', y te adentrarás en los archivos más oscuros del Vaticano. Cada relato está meticulosamente documentado con rituales, conjuros y conocimientos ancestrales sobre demonología, exorcismos y fenómenos paranormales.",
+            "priceSoft": "14.00",
+            "priceHard": "",
+            "linkAmazon": "https://www.amazon.com/-/es/El-Miedo-Est%C3%A1-Aqu%C3%AD-Historias/dp/B0DLGTK1KK/ref=sr_1_33?dib=eyJ2IjoiMSJ9.enmtWlB_zAgiVEZl8OaNrAzW3CWmzonKbDJbfgZvGS92JDXbSjdbhR1nfwiralcr6Pd3CRiqWyFqFW0ScN_NRz05FBRqg6TMWkuP6HB5TneKP6vSvBj1TEbl-L4ZzvgyabuTMGEw0dN16oC2muhLO4baZiRLeO8KtARshxM8-mddzgmeaM8eA5PlaF9iweyaZFBWAd0KN9mZ-tXZTEEBTEetei7VbukPPAwBxnvgcuIOsHrHA7PwUCqPgHsns0hKynatKBs4l9YHp9SHPRXwIiv5Js9VXwFeTmuNvZ49fnw.R6acNS1KyYXpG-6qTGauUKwf0qZfixTaUKO09Tp94hg&dib_tag=se&keywords=libros+de+terror&qid=1743824309&sr=8-33"
+        },
+
+        {
+            "idContentBook": "27",
+            "ImageBookFirst": "Images/thirdSection/27-firstImg.jpg",
+            "CoverBookBack": "Images/thirdSection/27-coverBack.jpg",
+            "BookTitle": "27- La Enciclopedia del Miedo: Una Colección de Monstruos y Entidades Aterradoras",
+            "BookDescription":"Descubre los misterios y entidades aterradoras que han sido ignorados por la sociedad en 'La Enciclopedia del Miedo: Una Colección de Monstruos y Entidades Aterradoras'. Este libro es el resultado de mucha investigación y dedicación por parte del autor, y presenta una amplia colección de historias y descripciones sobre criaturas poco comunes y desconocidas para la mayoría de las personas. Con cada descripción y leyenda acompañada de una sobrecogedora ilustración, este libro es un viaje a través del misterio, el terror y la imaginación. Adéntrate en un mundo lleno de seres aterradores y descubre todo lo que se esconde en la oscuridad. ¡No te pierdas la oportunidad de explorar la Enciclopedia del Miedo!.",
+            "priceSoft": "14.00",
+            "priceHard": "40.00",
+            "linkAmazon": "https://www.amazon.com/-/es/Enciclopedia-del-Miedo-Colecci%C3%B3n-Aterradoras/dp/B0BVTFRRST/ref=sr_1_37?dib=eyJ2IjoiMSJ9.enmtWlB_zAgiVEZl8OaNrAzW3CWmzonKbDJbfgZvGS92JDXbSjdbhR1nfwiralcr6Pd3CRiqWyFqFW0ScN_NRz05FBRqg6TMWkuP6HB5TneKP6vSvBj1TEbl-L4ZzvgyabuTMGEw0dN16oC2muhLO4baZiRLeO8KtARshxM8-mddzgmeaM8eA5PlaF9iweyaZFBWAd0KN9mZ-tXZTEEBTEetei7VbukPPAwBxnvgcuIOsHrHA7PwUCqPgHsns0hKynatKBs4l9YHp9SHPRXwIiv5Js9VXwFeTmuNvZ49fnw.R6acNS1KyYXpG-6qTGauUKwf0qZfixTaUKO09Tp94hg&dib_tag=se&keywords=libros+de+terror&qid=1743824309&sr=8-37"
+        },
+        {
+            "idContentBook": "28",
+            "ImageBookFirst": "Images/thirdSection/28-firstImg.jpg",
+            "CoverBookBack": "Images/thirdSection/28-coverBack.jpg",
+            "BookTitle": "28- Escape Room Terror: El libro de enigmas interactivo para los adultos amantes del terror",
+            "BookDescription":"Una familia americana vive en una casa, aislada del pueblo. El comportamiento extraño de esta familia, particularmente los rituales esotéricos de la madre, provoca las burlas de un grupo de niños del pueblo. Los niños se meten con la familia, sobretodo con el pequeño Christopher que entonces tiene 7 años, y los acosan constantemente. Los rituales de la madre acaban mal, provocando la muerte de su marido Jared, padre de Christopher. Poco tiempo después, la madre de Christopher se suicida, dejando a su hĳo huérfano, que será rápidamente entregado a una familia de acogida. 30 años más tarde, nuevos eventos trágicos ocurren en el olvidado pueblo de Bannack. Los crímenes sangrientos suceden a un ritmo aterrador.",
+            "priceSoft": "17.99",
+            "priceHard": "",
+            "linkAmazon": "https://www.amazon.com/-/es/Escape-Room-Terror-enigmas-interactivo/dp/2487277513/ref=sr_1_38?dib=eyJ2IjoiMSJ9.enmtWlB_zAgiVEZl8OaNrAzW3CWmzonKbDJbfgZvGS92JDXbSjdbhR1nfwiralcr6Pd3CRiqWyFqFW0ScN_NRz05FBRqg6TMWkuP6HB5TneKP6vSvBj1TEbl-L4ZzvgyabuTMGEw0dN16oC2muhLO4baZiRLeO8KtARshxM8-mddzgmeaM8eA5PlaF9iweyaZFBWAd0KN9mZ-tXZTEEBTEetei7VbukPPAwBxnvgcuIOsHrHA7PwUCqPgHsns0hKynatKBs4l9YHp9SHPRXwIiv5Js9VXwFeTmuNvZ49fnw.R6acNS1KyYXpG-6qTGauUKwf0qZfixTaUKO09Tp94hg&dib_tag=se&keywords=libros+de+terror&qid=1743824309&sr=8-38"
+        },
+        {
+            "idContentBook": "29",
+            "ImageBookFirst": "Images/thirdSection/29-firstImg.jpg",
+            "CoverBookBack": "",
+            "BookTitle": "29- Historias de terror",
+            "BookDescription":"Veinticuatro terroríficos relatos ilustrados con los personajes más exitosos de los «Miércoles de Terror», entre los que se encuentran Kuchisake-Onna, Zero, Momo, Laughing Jack o Slenderman, y también, otros inéditos como Yama-Uba, la Abuela de las Montañas, el cruel y juguetón The Puppeteer o la sangrienta Bloody Mary. Prepárate para pasar un rato escalofriante con estos creepypastas que te atraparan para no soltarte jamás.",
+            "priceSoft": "",
+            "priceHard": "34.73",
+            "linkAmazon": "https://www.amazon.com/-/es/Historias-terror-TikTak-Draw/dp/8491645594/ref=sr_1_40?dib=eyJ2IjoiMSJ9.enmtWlB_zAgiVEZl8OaNrAzW3CWmzonKbDJbfgZvGS92JDXbSjdbhR1nfwiralcr6Pd3CRiqWyFqFW0ScN_NRz05FBRqg6TMWkuP6HB5TneKP6vSvBj1TEbl-L4ZzvgyabuTMGEw0dN16oC2muhLO4baZiRLeO8KtARshxM8-mddzgmeaM8eA5PlaF9iweyaZFBWAd0KN9mZ-tXZTEEBTEetei7VbukPPAwBxnvgcuIOsHrHA7PwUCqPgHsns0hKynatKBs4l9YHp9SHPRXwIiv5Js9VXwFeTmuNvZ49fnw.R6acNS1KyYXpG-6qTGauUKwf0qZfixTaUKO09Tp94hg&dib_tag=se&keywords=libros+de+terror&qid=1743824309&sr=8-40"
+        },
+        {
+            "idContentBook": "30",
+            "ImageBookFirst": "Images/thirdSection/30-firstImg.jpg",
+            "CoverBookBack": "",
+            "BookTitle": "30- Relatos de terror para una Noche de Leyendas ",
+            "BookDescription":"Relatos de Terror para una Noche de Leyendas es una recopilación de algunas de las historias de terror que la gente me ha contado a lo largo de los últimos años mientras recorro México en busca de misterios, algunas de ellas son tan impactantes o interesantes, que me ha sido imposible no escribirlas para compartirlas contigo. ",
+            "priceSoft": "9.00",
+            "priceHard": "",
+            "linkAmazon": "https://www.amazon.com/-/es/Relatos-terror-Noche-Leyendas-Spanish/dp/B0BV49WYV8/ref=sr_1_44?dib=eyJ2IjoiMSJ9.enmtWlB_zAgiVEZl8OaNrAzW3CWmzonKbDJbfgZvGS92JDXbSjdbhR1nfwiralcr6Pd3CRiqWyFqFW0ScN_NRz05FBRqg6TMWkuP6HB5TneKP6vSvBj1TEbl-L4ZzvgyabuTMGEw0dN16oC2muhLO4baZiRLeO8KtARshxM8-mddzgmeaM8eA5PlaF9iweyaZFBWAd0KN9mZ-tXZTEEBTEetei7VbukPPAwBxnvgcuIOsHrHA7PwUCqPgHsns0hKynatKBs4l9YHp9SHPRXwIiv5Js9VXwFeTmuNvZ49fnw.R6acNS1KyYXpG-6qTGauUKwf0qZfixTaUKO09Tp94hg&dib_tag=se&keywords=libros+de+terror&qid=1743824309&sr=8-44"
+        }
+
+    ]
+    
+}

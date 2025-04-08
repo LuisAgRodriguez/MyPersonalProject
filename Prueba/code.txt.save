@@ -1,0 +1,64 @@
+transfomr: (scale(0), skewY(0), skewX(0));
+
+
+Animation-@keyframes 
+element {
+	animation-name: name;
+	animation-duration: 0s;
+	animation-fill-mode: forwards;
+	animation-play-state: running;
+	animation-iteration-count: (3, infinite);
+	animation-timing-function: (linear. ease-out, ease-in, 
+	cubic-bezier(x(0,0),y(0,0),x(0.0),y(0.0)) );
+	animation-delay: 0s;
+	animation-timeline: auto;
+}
+
+
+@keyframes <name> {	
+	0% {
+		prop: valor;
+	}	
+	100% {
+		prop: valor;
+	}
+}
+
+
+Flex-Box-display 
+
+element {
+	display: flex;
+	flex-directino: (column, row o mas -reverse);
+	justify-content: (flex-start, flex-end, center, space-(around, evenly, between));
+	align-items: (flex-start, flex-end, center, stretch, baseline);
+	align-self: (flex-start, flex-end, center, stretch, baseline);
+	flex-wrap: (nowrap, wrap o -reverse);
+	flex-shrink: 0;
+	flex-grow: 1;
+	flex-basis: (px, em, %, etc);
+	flex: 1 0 10px;
+	order: 0;
+}
+
+CSS grid-display
+
+element {
+	display: grid;
+	grid-template-columns: 0px 0px o fr(fraccion), %, auto;
+	grid-template-rows: 0px 0px;
+	grid-column-gap: (10px, 1/1);
+	grid-row-gap: (10px, 1/1);
+	grid-gap: 10px;
+	justify-self: (stretch, start, end, center);
+	align-self: (stretch, start, end, center);
+	justify-items: (stretch, start, end, center);
+	align-items: (stretch, start, end, center);
+	grid-template-areas:
+		'header header header'
+		'advert content content'
+		'advert footer footer';
+	grid-area: (header, advert, content, footer o 1/1/2/4);
+	grid-template-(columns o rows): (repeat(0, 0fr, 0px), auto-fill, auto-fit, 0px minmax((0px, 0fr), (0px, 0fr)));
+}
+		
