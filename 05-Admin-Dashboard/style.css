@@ -1,0 +1,620 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=PT+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Raleway:ital,wght@0,100..900;1,100..900&family=Ubuntu:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&display=swap');
+
+* {
+    box-sizing: border-box;
+    margin: 0px;
+}
+
+:root {
+    --background-body: #e2e7e9;
+    --background-element: #fafafa;
+    --color-fonts: #1e212b;
+    --color-fontTwo: #393b3b;
+    --background-hover: #c3d6ee;
+    --background-color-icon: #b7bbc5;
+    --color-fontHover: #5c7f8d;
+}
+
+.dark-mode-variable{
+    --background-body: #0a192b;
+    --background-element: #030d18;
+    --color-fonts: #cbced6;
+    --color-fontTwo: #393b3b;
+    --background-hover: #020913;
+    --background-color-icon: #282e3d;
+    --color-fontHover: #233e49;
+}
+
+body {
+    background-color: var(--background-body);
+}
+
+.container {
+    height: none;
+    padding: 6px 12px;
+    display: grid;
+    grid-template-columns: 13rem auto 20rem;
+}
+
+/*Navbar Start*/
+.navbar {
+    width: 100%;
+    height: 70px;
+    padding: 8px 12px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.open-menu {
+    display: none;
+    font-size: 2rem;
+    color: var(--color-fonts);
+    cursor: pointer;
+}
+
+
+.user-admin {
+    position: absolute;
+    right: 10px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    font-family: "Lato", sans-serif;
+    color: var(--color-fonts);
+}
+
+.first-span {
+    margin-right: 10px;
+    cursor: pointer;
+}
+
+.first-span:hover, .open-menu:hover {
+    color: var(--color-fontHover);
+}
+
+.user-admin-perfil {
+    padding: 6px 8px;
+    border-radius: 8px;
+    border: 1px solid gray;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.user-admin-perfil img {
+    width: 40px;
+    border-radius: 100%;
+}
+
+
+.user-admin-perfil p {
+    margin-left: 6px;
+    display: flex;
+    flex-direction: column;
+    font-size: 0.9rem;
+}
+
+.user-admin-perfil p span:last-of-type {
+    font-size: 0.8rem;
+    color: gray;
+}
+
+.user-admin-perfil .admin-active {
+    position: absolute;
+    left: 78%;
+    bottom: 16%;
+    font-size: 0.9rem;
+    color: green;
+}
+
+.expand-perfil {
+    margin: 0px 2px;
+    display: none;
+    font-size: 1.8rem;
+    color: var(--color-fonts);
+    cursor: pointer;
+}
+/*Navbar END*/
+/*Left Aside Start*/
+.left-navbar {
+    height: 100vh;
+    border-radius: 12px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: var(--background-element);
+    box-shadow: 0px 0px 8px 1px gray;
+}
+
+.logo img{
+    width: 140px;
+}
+
+.logo span {
+    display: none;
+    color: var(--color-fonts);
+    cursor: pointer;
+}
+
+.logo span:hover {
+    color: var(--color-fontHover);
+}
+
+
+aside p{
+    padding: 12px 14px;
+    border-radius: 4px;
+    display: flex;
+    align-items: center;
+    font-family: "Lato", sans-serif;
+    color: var(--color-fonts);
+    cursor: pointer;
+}
+
+aside p:hover {
+    font-size: 17px;
+    background-color: var(--background-hover);
+    transition-duration: 600ms;
+    transition-timing-function: cubic-bezier(0.075, 0.82, 0.165, 1);
+}
+
+.navbar-list-options p span {
+    margin-right: 8px;
+    font-size: 24px;
+}
+
+.navbar-list-options .navbar-right-text {
+    font-size: 1rem;
+}
+
+.insights {
+    border-left: 6px solid rgb(75, 174, 255);
+    background-color: var(--background-body);
+}
+
+aside .logout {
+    margin-bottom: 16px;
+    position: absolute;
+    bottom: 0;
+}
+/*Left Aside END*/
+
+/*Middle Analist Start*/
+.middle-analist {
+    height: 100vh;
+    margin: 0px ;
+    padding: 24px 16px;
+    display: flex;
+    flex-direction: column;
+    font-family: "Lato", sans-serif;
+    color: var(--color-fonts);
+}
+
+.middle-analist h1 {
+    margin-bottom: 20px;
+    font-size: 36px;
+    font-weight: 800;
+}
+
+.analist-graphy  {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: center;
+}
+
+.text-raios {
+    width: 15.5rem;
+    padding: 6px 10px;
+    margin: 4px;
+    border-radius: 8px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    background-color: var(--background-element);
+    box-shadow: 0px 0px 8px 1px gray;
+}
+
+.radio-div {
+    width: 8.2rem;
+    height: 8rem;
+    position: relative;
+}
+
+svg {
+    width: 100%;
+}
+
+circle {
+    fill: none;
+    stroke-width: 12;
+    stroke: black;
+    fill-opacity: 0;
+}
+
+.cir-v {
+    stroke: #27373d;
+}
+.cir-v-two {
+    stroke: #83b2c5;
+    stroke-dasharray: 120%;
+}
+.cir-vist {
+    stroke: #273d31;
+}
+.cir-vist-two {
+    stroke: #6fc963;
+    stroke-dasharray: 86%;
+}
+.cir-c {
+    stroke: #3b3d27;
+}
+.cir-c-two {
+    stroke: #b5d362;
+    stroke-dasharray: 98%;
+}
+
+.text-raios span {
+    position: absolute;
+    top: 36%;
+    right: 0;
+    bottom: 0;
+    left: 34%;
+    margin: none;
+    font-size: 1.6rem;
+}
+
+.text-div {
+    margin-right: 14px;
+}
+
+.content-new-user {
+    margin-top: 10px;
+    padding: 8px;
+    border-radius: 8px;
+    background-color: var(--background-element);
+    box-shadow: 0px 0px 8px 1px gray;
+}
+
+.title-new-user {
+    width: 100%;
+    margin-top: 2px;
+    color: var(--color-fonts);
+}
+
+
+.new-user {
+    width: 100%;
+    padding: 12px;
+    margin-top: 10px;
+    margin-left: 5px;
+    border-radius: 8px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    flex-wrap: wrap;
+    background-color: var(--background-element);
+    box-shadow: 0px 0px 1px 1px gray;
+}
+
+.new-user-perfil {
+    width: auto;
+    padding: 6px 12px;
+    margin: 0px 6px;
+    border-radius: 6px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    background-color: var(--background-body);
+    color: var(--color-fonts);
+    cursor: pointer;
+}
+
+.new-user-perfil img{
+    width: 100px;
+    border-radius: 100%;
+}
+
+.new-user-perfil p {
+    margin-top: 10px;
+    font-size: 1.4rem;
+}
+
+.table-menssage img {
+    width: 40px;
+    border-radius: 100%;
+}
+
+.table-menssage {
+    width: 100%;
+    padding: 8px;
+    border-radius: 8px;
+    margin-top: 12px;
+    background-color: var(--background-element);
+    box-shadow: 0px 0px 8px 1px gray;
+}
+
+.table-menssage caption {
+    margin-bottom: 6px;
+    font-size: 20px;
+    font-weight: 600;
+    text-align: left;
+    color: var(--color-fonts);
+}
+
+.table-menssage table  {
+    width: 100%;
+    padding: 8px;
+    border-radius: 8px;
+    margin-top: 6px;
+    border: 1px solid gray;
+}
+
+.table-menssage table td {
+    color: var(--color-fonts);
+}
+
+.table-menssage table td:nth-last-of-type(2) {
+    font-size: 14px;
+    color: var(--color-fontTwo);
+}
+
+.table-menssage table td:last-of-type {
+    text-align: right;
+    font-size: 14px;
+    color: var(--color-fontTwo);
+} 
+
+/*Middle Analist END*/
+/*Right Formation*/
+.right-formation-navbar {
+    padding: 2px;
+    margin: 0px;
+    margin-top: 70px;
+    font-family: "Lato", sans-serif;
+    color: var(--color-fonts);
+}
+
+.formation-status {
+    padding: 6px 8px;
+    border-radius: 8px;
+    background-color: var(--background-element);
+    box-shadow: 0px 0px 8px 1px gray;
+}
+
+.first-div {
+    height: 24px;
+    width: 250px;
+    padding: 2px 0px;
+    margin: 14px auto;
+    border-radius: 50px;
+    border: 2px solid var(--color-fonts);
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.second-div {
+    width: 200px;
+    height: 20px;
+    border-radius: 40px;
+    background-color: var(--color-fontHover);
+} 
+
+.formation-status .title-text {
+    margin-bottom: 8px;
+    text-align: center;
+}
+
+.formation-status button {
+    width: 180px;
+    height: 30px;
+    border-radius: 8px;
+    border: 2px solid var(--color-fonts);
+    margin: 4px 60px;
+    text-align: center; 
+    font-size: 16px;
+    background-color: var(--background-hover);
+    cursor: pointer;
+    color: var(--color-fonts);
+}
+
+.formation-status button:hover {
+    background-color: #e2e5e9;
+    color: black;
+}
+
+.your-list {
+    padding: 10px;
+    margin-top: 10px;
+    border-radius: 8px;
+    background-color: var(--background-element);
+    box-shadow: 0px 0px 8px 1px gray;
+}
+
+.your-list .element-list {
+    margin: 18px 0px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.your-list .element-list h3 {
+    font-size: 16px;
+}
+
+.your-list .material-icons-sharp {
+    padding: 8px;
+    border-radius: 8px;
+    margin-right: 6px;
+    background-color: var(--color-fonts);
+    color: var(--background-color-icon)
+}
+
+.board-meeting {
+    padding: 10px;
+    margin-top: 10px;
+    border-radius: 8px;
+    background-color: var(--background-element);
+    box-shadow: 0px 0px 8px 1px gray;
+}
+
+/*Right Formation End*/
+
+/*Media Queries*/
+@media (max-width: 1352px) {
+    .text-raios {
+        width: 48%;
+    }
+    @media (max-width: 1140px) {
+        .text-raios {
+            width: 100%;
+        }
+    }
+    
+}
+
+@media (max-width: 1050px) {
+    .container {
+        grid-template-columns: 6rem auto 20rem;
+    }
+
+    .logo img{
+        width: 80px;
+    }
+
+    aside .navbar-list-options  .material-icons-sharp {
+        margin: 0px auto;
+        font-size: 1.8rem;
+        text-align: center;
+    }
+
+    .navbar-list-options .navbar-right-text, .navbar-right-text {
+        display: none;
+    }
+}
+
+@media (max-width: 810px) {
+    .container {
+        width: 88%;
+        height: none;
+        position: absolute;
+        right: 0;
+        grid-template-columns: auto;
+    }
+
+    .left-navbar {
+        position: absolute;
+        top: 10px;
+        left: -70px;
+    }
+
+    .right-formation-navbar {
+        padding: 0px 16px;
+        margin-top: 440px;
+    }
+    @media (max-width: 728px) {
+        .right-formation-navbar {
+            margin-top: 590px;
+        }
+    }
+}
+
+@media (min-width: 650px) {
+    .left-navbar {
+        display: flex;
+    }
+    
+}
+
+@media (max-width: 650px) {/*Change of place the elements*/
+    .user-admin-perfil p, .first-span, .admin-active {
+        display: none;
+    }
+    .container {
+        width: 100%;
+        padding: 2px;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    }
+
+    .navbar {
+        position: fixed;
+        z-index: 99;
+        background-color: var(--background-element);
+    }
+
+    .navbar .open-menu, .logo span, .expand-perfil, #light-dark,.navbar-list-options .navbar-right-text, .navbar-right-text {
+        display: block;
+    }
+
+    .left-navbar {
+        display: none;
+        border-radius: 0px;
+        position: fixed;
+        top: 0;
+        left: 0;
+        z-index: 99;
+        animation-name: leftBar;
+        animation-duration: 1s;
+        animation-timing-function: cubic-bezier(0.25, 0.46, 0.45, 0.94);
+    }
+
+    .logo span {
+        position: absolute;
+        top: 4px;
+        right: 4px;
+    }
+
+    aside .navbar-list-options {
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+    }
+
+    .navbar-list-options p span:first-of-type {
+        font-size: 1.6rem;
+        margin-right: 6px;
+    }
+
+    @keyframes leftBar {
+        0% {
+            left: -100px;
+        }
+        50% {
+            left: 0;
+        }
+    }
+
+    .middle-analist {
+        margin-top: 60px;
+    }
+
+    .middle-analist h1 {
+        font-size: 1.8rem;
+    }
+
+    .right-formation-navbar {
+        margin-top: 560px;
+        }
+
+    @media (max-width: 618px) {
+        .right-formation-navbar {
+         margin-top: 580px;
+        }
+    }
+    
+    
+}
+
+

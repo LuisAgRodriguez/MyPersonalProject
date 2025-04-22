@@ -1,0 +1,271 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons+Sharp"
+      rel="stylesheet">
+
+    <link rel="stylesheet" href="style.css">
+    <title>05-Admin-Dashboard</title>
+</head>
+<body>
+    
+    <div class="container">
+        <!--Header navbar-->
+        <div class="navbar">
+            <span class="material-icons-sharp open-menu">
+                menu
+            </span>
+            <div class="user-admin">
+                <span id="light-dark" class="material-icons-sharp first-span">
+                    light_mode
+                </span><!--dark_mode-->
+                <span class="material-icons-sharp first-span">
+                    calendar_month
+                </span>
+                <span class="material-icons-sharp first-span">
+                    textsms
+                </span>
+                <span class="material-icons-sharp first-span">
+                    notifications
+                </span>
+                <div class="user-admin-perfil">
+                    <img src="Image/ImgUser.jpg" alt="User">
+                    <p>
+                        <span>Luis Rodriguez</span>
+                        <span>Admin</span>
+                    </p>
+                    <span class="material-icons-sharp admin-active">
+                        radio_button_checked
+                     </span>
+                     <span class="material-icons-sharp expand-perfil">
+                        expand_more
+                     </span>
+                </div>
+            </div>
+        </div>
+        <!--Header navbar End-->
+        
+        <!--Left Navbar Aside-->
+        <div class="left-navbar">
+            <div class="logo">
+                <img src="Image/logo-radio-blackWhite.png" alt="Logo">
+                <span class="material-icons-sharp open-close">
+                    close
+                </span>
+            </div>
+            <aside>
+                <div class="navbar-list-options">
+                    <p><span class="material-icons-sharp">
+                        home
+                        </span>
+                        <span class="navbar-right-text">Inicio</span></p>
+                    <p><span class="material-icons-sharp">
+                        groups
+                        </span>
+                        <span class="navbar-right-text">Usuarios</span></p>
+                    <p><span class="material-icons-sharp">
+                        assessment
+                        </span>
+                        <span class="navbar-right-text">Estadisticas</span></p>
+                    <p class="insights"><span class="material-icons-sharp">
+                        insights
+                        </span>
+                        <span class="navbar-right-text">Analisis</span></p>
+                    <p><span class="material-icons-sharp">
+                        mail
+                        </span>
+                        <span class="navbar-right-text">Email</span></p>
+                    <p><span class="material-icons-sharp">
+                        settings
+                        </span>
+                        <span class="navbar-right-text">Configuración</span></p>
+                </div>
+                <p class="logout">
+                    <span class="material-icons-sharp">
+                        logout
+                    </span>
+                    <span class="navbar-right-text">Cerrar sesion</span>
+                </p>
+            </aside>
+        </div>
+        <!--Left Navbar Aside End-->
+        <!--Middle Analist-->
+        <div class="middle-analist">
+            <h1>Analisis</h1>
+            <!--Graphy Circle-->
+            <div class="analist-graphy">
+                <div class="text-raios">
+                    <div class="text-div">
+                        <h2>Ventas</h2>
+                        <p>$12.431M+</p>
+                    </div>
+                    <div class="radio-div">
+                        <svg>
+                            <circle class="cir-v" cx="62" cy="62" r="50"></circle>
+                            <circle class="cir-v-two" cx="62" cy="62" r="50"></circle>
+                        </svg>
+                        <span class="middle-circle">52%</span>
+                    </div>
+                </div>
+                <div class="text-raios">
+                    <div class="text-div">
+                        <h2>Visitas</h2>
+                        <p>123.321 MIL</p>
+                    </div>
+                    <div class="radio-div">
+                        <svg>
+                            <circle class="cir-vist" cx="62" cy="62" r="50"></circle>
+                            <circle class="cir-vist-two" cx="62" cy="62" r="50"></circle>
+                        </svg>
+                        <span class="middle-circle">82%</span>
+                    </div>
+                </div>
+                <div class="text-raios">
+                    <div class="text-div">
+                        <h2>Cuentas</h2>
+                        <p>93.432 MIL</p>
+                    </div>
+                    <div class="radio-div">
+                        <svg>
+                            <circle class="cir-c" cx="62" cy="62" r="50"></circle>
+                            <circle class="cir-c-two" cx="62" cy="62" r="50"></circle>
+                        </svg>
+                        <span class="middle-circle">74%</span>
+                    </div>
+                </div>
+            </div>
+            <!--Graphy Circle End-->
+            <!--News Users-->
+            
+            
+            <div class="content-new-user">
+                <h2 class="title-new-user">Nuevos Usuarios</h2>
+                <div class="new-user">
+                    <div class="new-user-perfil">
+                        <img src="Image/ImgUser.jpg" alt="user">
+                        <p>Luis</p>
+                    </div>
+                    <div class="new-user-perfil">
+                        <img src="Image/ImgUser.jpg" alt="user">
+                        <p>Carlos</p>
+                    </div>
+                    <div class="new-user-perfil">
+                        <img src="Image/ImgUser.jpg" alt="user">
+                        <p>Jose</p>
+                    </div>
+                    <div class="new-user-perfil">
+                        <img src="Image/ImgUser.jpg" alt="user">
+                        <p>Lucas</p>
+                    </div>
+                    
+                </div>
+            </div>
+            <!--News Users End-->
+            <!--Table menssage-->
+            <div class="table-menssage">
+                <table>
+                    <caption>Email Recientes</caption>
+                    <tbody>
+                        <tr>
+                            <th><img src="Image/ImgUser.jpg" alt=""></th>
+                            <td>Agustin Torres</td>
+                            <td>reunión programada</td>
+                            <td>1:24 PM</td>
+                        </tr>
+                        <tr>
+                            <th><img src="Image/ImgUser.jpg" alt=""></th>
+                            <td>Lucio</td>
+                            <td>Actualización sobre la empresa de marketing</td>
+                            <td>12:32 PM</td>
+                        </tr>
+                        <tr>
+                            <th><img src="Image/ImgUser.jpg" alt=""></th>
+                            <td>Brenda</td>
+                            <td>El diseño 2.0 está a punto de lanzarse</td>
+                            <td>Ayer 8:57 PM</td>
+                        </tr>
+                        <tr>
+                            <th><img src="Image/ImgUser.jpg" alt=""></th>
+                            <td>Julio Rodriguez</td>
+                            <td>reunión programada</td>
+                            <td>Ayer 7:49 PM</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+            <!--Table menssage End-->
+        </div>
+        <!--Middle Analist End-->
+        <!--Right Formation-->
+        <div class="right-formation-navbar">
+            <!--Fotmation Status-->
+            <div class="formation-status">
+                <h2>Estado de formación</h2>
+                <p>En progreso</p>
+                <div class="first-div">
+                    <div class="second-div"></div>
+                </div>
+                <div class="title-text">
+                    <h3>Procesamiento estimado</h3>
+                    <p>4-5 Días hábiles</p>
+                </div>
+                <button>Nuevos Estados</button>
+            </div>
+            <!--Fotmation Status End-->
+            <!--Your List-->
+            <div class="your-list">
+                <h2>Lista de cosas por hacer</h2>
+                <div class="element-list">
+                    <span class="material-icons-sharp">
+                        event
+                    </span>
+                    <div>
+                        <h3>Ejecutar la nómina</h3>
+                        <p>4 de marzo a las 6:00 pm</p>
+                    </div>
+                </div>
+                <div class="element-list">
+                    <span class="material-icons-sharp">
+                        schedule
+                    </span>
+                    <div>
+                        <h3>Revisar solicitud de tiempo libre</h3>
+                        <p>7 de marzo a las 6:00 pm</p>
+                    </div>
+                </div>
+                <div class="element-list">
+                    <span class="material-icons-sharp">
+                        assignment
+                    </span>
+                    <div>
+                        <h3>Resolución del letrero</h3>
+                        <p>12 de marzo a las 6:00 pm</p>
+                    </div>
+                </div>
+                <div class="element-list">
+                    <span class="material-icons-sharp">
+                        assignment_turned_in
+                    </span>
+                    <div>
+                        <h3>Terminar la incorporación de Tony</h3>
+                        <p>12 de marzo a las 6:00 pm</p>
+                    </div>
+                </div>
+            </div>
+            <!--Your List End-->
+            <!--Board Meeting-->
+            <div class="board-meeting">
+                <h2>Reunión de la junta directiva</h2>
+                <p>22 de febrero a las 6:00 pm</p>
+                <p></p>
+            </div>
+            <!--Board Meeting End-->
+        </div>
+        <!--Right Formation End-->
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>

@@ -1,0 +1,38 @@
+{
+   "users": [
+    "Carlos Torres", "Maria Smith", "Matias Rodriguez", "Oscar Velez"
+   ],
+   "commnets": [
+    "Sin dudas unas de las mejores paginas que he encontrado.",
+    "Lo mejor que he encontrado, tiene todo lo que buscaba, y aparte que estan a buen precio.",
+    "Estuve en muchas paginas de tienda pero esta pagina tiene un buen sevicio.",
+    "Muy bueno, la pagina tiene de todo y el envio es rapido, asi que le doy 5 estrellas por excelente servicio."
+
+   ],
+   "category": [
+      "Limpieza",
+      "Ropa",
+      "Herramientas"
+   ],
+   "products": [
+      "Los productos de limpieza mas comprado",
+      "Ropa originales mas compradas del marcado",
+      "Herramientas con mas reseñas y compras"
+   ],
+   "price": [
+      "$15.000 - $60.000",
+      "$15.000 - $50.000",
+      "$25.000 - $30.000"
+      
+   ],
+   "visits": [
+      "1.433.034",
+      "2.123.321",
+      "1.940.322"
+      
+   ]
+   
+   
+}
+  
+  
